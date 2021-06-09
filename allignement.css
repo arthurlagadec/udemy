@@ -1,0 +1,11 @@
+H1 { text-align: center }
+h1
+{color: rgb(255, 255, 255);}
+p { text-align: center }
+body {
+    background-color: black; /* Le fond de la page sera noir */
+    color: white; /* Le texte de la page sera blanc */
+}
+body{
+	font-family: 'Roboto';
+}
